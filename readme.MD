@@ -1,7 +1,3 @@
-Here's an updated **README.md** with more detailed examples for different use cases of the `anti-rate-limit` package.
-
----
-
 # Anti-Rate-Limit
 
 `anti-rate-limit` is a flexible and efficient task queue rate-limiter for Node.js, designed to manage and throttle task execution with configurable rate limits. It allows you to process tasks with a maximum number of requests per interval, concurrency control, and automatic retries for failed tasks.
@@ -257,7 +253,7 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/DevTerminator69/Anti-Rate-Limit/blob/main/LICENSE) file for details.
 
 ---
 
