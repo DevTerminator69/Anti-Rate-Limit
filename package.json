@@ -1,5 +1,5 @@
 {
-    "name": "anti-rate-limitt",
+    "name": "anti-rate-limit",
     "version": "1.0.0",
     "description": "`anti-rate-limit` is a powerful task queue rate limiter designed for Node.js applications. It allows developers to efficiently manage and control the rate at which tasks are executed by enforcing customizable rate limits, concurrency, and automatic retries for failed tasks. Whether you're managing API requests, background jobs, or complex task workflows, `anti-rate-limit` ensures tasks are processed within defined limits, preventing overloads, rate-limiting issues, and task failures.",
     "main": "dist/index.js",
