@@ -269,5 +269,3 @@ For any issues or feature requests, please open an issue on GitHub or contact us
 - **Robustness**: With retry limits and concurrency control, this package helps ensure that your application can handle high loads and failures gracefully.
 
 ---
-
-This extended README includes a variety of examples, showcasing the flexibility and power of the `anti-rate-limit` package. It demonstrates how to use the package for basic task execution, complex async operations, and advanced features like retries, concurrency, and prioritization.
