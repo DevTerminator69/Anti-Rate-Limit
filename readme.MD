@@ -242,7 +242,7 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 
 ### Steps to contribute:
 1. Fork this repository
-2. Clone your fork: `git clone https://github.com/your-username/anti-rate-limit.git`
+2. Clone your fork: `git clone https://github.com/DevTerminator69/Anti-Rate-Limit.git `
 3. Create a new branch: `git checkout -b feature-branch`
 4. Make your changes
 5. Commit your changes: `git commit -m 'Add feature'`
